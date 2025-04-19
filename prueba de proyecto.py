@@ -96,4 +96,4 @@ def menu():
             print("Opción no válida.")
 
 # Ejecutar menú si se desea
-menu() 
+menu()
